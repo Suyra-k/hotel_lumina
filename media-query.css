@@ -1,0 +1,17 @@
+@media only screen and (max-width: 768px) {
+     #home {
+        padding: 3px 15px;
+    }
+
+    #home img {
+        height: 180px;
+    }
+
+    #home h2 {
+        font-size: 1.8rem;
+    }
+
+    #home p {
+        font-size: 1.2rem;
+    }
+}
